@@ -1803,7 +1803,7 @@ h2 {
   text-align: center;
   font-size: 18px;
   font-family: "Dancing Script", cursive;
-  opacity: 0;
+  opacity: 1;
   transition: 1s;
 }
 .slider3:hover .content p {
